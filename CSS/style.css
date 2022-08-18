@@ -1,0 +1,32 @@
+body{
+    background-color: #eee;
+    font-family: cursive;
+}
+
+h1 {
+    background-color: black;
+    color: whitesmoke;
+    padding: 5px 20px;
+    font-size: 40px;
+}
+
+h1 span{
+    color:aqua;
+}
+
+h2 {
+    background-color: indigo;
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 5px 20px;
+}
+
+h3 {
+    background-color: skyblue;
+    color: darkblue;
+    text-align: end;
+    text-decoration: underline;
+    padding: 5px 20px;
+}
